@@ -1,1 +1,56 @@
-
+{
+  "version": 1752853058719,
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to JMAFK Updates!",
+      "content": "This is the official community section where you'll find the latest news and updates about Minecraft Bedrock resources. Stay tuned for more content! We'll be posting regular updates about new plugins, texture packs, maps, and other resources that are available in the app. Feel free to like and share posts that you find useful!",
+      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/2cc5ade2-28d3-42a3-9f97-e8b8399da113.jpg",
+      "authorName": "Admin",
+      "datePosted": 1752853058719,
+      "likes": 5,
+      "dislikes": 0
+    },
+    {
+      "id": 2,
+      "title": "New Chest Shop Plugin Available!",
+      "content": "We've just added a new Chest Shop plugin to the app! This plugin allows you to create shops using chests in your Minecraft Bedrock world. It's perfect for server owners who want to create an economy system. Check it out in the Plugins section of the app!\n\nFeatures:\n- Easy to set up shops\n- Support for all item types\n- Custom pricing options\n- Admin shop functionality\n- Protection against theft\n\nCompatible with Minecraft Bedrock version 1.21.90 and above.",
+      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/7d875ded-4dea-4660-9c0e-0e754aa59840.jpg",
+      "authorName": "Admin",
+      "datePosted": 1752831107592,
+      "likes": 12,
+      "dislikes": 1
+    },
+    {
+      "id": 3,
+      "title": "Floating Text Plugin Tutorial",
+      "content": "Learn how to use the Floating Text plugin with our new tutorial! This plugin lets you create floating text displays in your Minecraft world, perfect for server information, rules, or decorative elements.\n\nThe tutorial covers:\n1. Installation steps\n2. Basic commands\n3. Text formatting with colors\n4. Advanced positioning options\n5. Persistent text across server restarts\n\nYou can find the Floating Text plugin in the Plugins section of the app. If you have any questions about using this plugin, feel free to ask in the comments!",
+      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/cbce9a01-b3d6-4ad0-b6d2-f75989c23e36.jpg",
+      "authorName": "Admin",
+      "datePosted": 1752831700290,
+      "likes": 8,
+      "dislikes": 0
+    },
+    {
+      "id": 4,
+      "title": "App Update Coming Soon!",
+      "content": "We're working on a major update for the JMAFK BEDROCK CHEST app! The update will include new features like improved search, better categorization, and more community features.\n\nNew features in the upcoming update:\n- Advanced search with filters\n- User profiles and achievements\n- Direct messaging between users\n- Improved download management\n- Dark/light theme options\n\nThe update is scheduled for release next month. Stay tuned for more information!",
+      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/8274f593-5d93-44c6-8ba9-f82721fcdd63.jpg",
+      "authorName": "Admin",
+      "datePosted": 1752837544056,
+      "likes": 15,
+      "dislikes": 0
+    },
+    {
+      "id": 5,
+      "title": "Custom Texture Pack Showcase",
+      "content": "Check out this amazing custom texture pack created by one of our community members! This pack completely transforms the look of Minecraft Bedrock with high-resolution textures, custom models, and beautiful environmental effects.\n\nThe pack includes:\n- 64x64 resolution textures\n- Custom mob models\n- Enhanced water and lava effects\n- Beautiful sky textures with realistic clouds\n- Custom UI elements\n\nYou can download this texture pack from the Texture Packs section of the app. Special thanks to the creator for sharing this amazing work with our community!",
+      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/2cc5ade2-28d3-42a3-9f97-e8b8399da113.jpg",
+      "authorName": "Admin",
+      "datePosted": 1752825000000,
+      "likes": 24,
+      "dislikes": 2
+    }
+  ],
+  "lastUpdated": 1752853058719
+} 
