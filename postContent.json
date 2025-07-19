@@ -31,26 +31,6 @@
       "datePosted": 1752831700290,
       "likes": 8,
       "dislikes": 0
-    },
-    {
-      "id": 4,
-      "title": "App Update Coming Soon!",
-      "content": "We're working on a major update for the JMAFK BEDROCK CHEST app! The update will include new features like improved search, better categorization, and more community features.\n\nNew features in the upcoming update:\n- Advanced search with filters\n- User profiles and achievements\n- Direct messaging between users\n- Improved download management\n- Dark/light theme options\n\nThe update is scheduled for release next month. Stay tuned for more information!",
-      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/8274f593-5d93-44c6-8ba9-f82721fcdd63.jpg",
-      "authorName": "Admin",
-      "datePosted": 1752837544056,
-      "likes": 15,
-      "dislikes": 0
-    },
-    {
-      "id": 5,
-      "title": "Custom Texture Pack Showcase",
-      "content": "Check out this amazing custom texture pack created by one of our community members! This pack completely transforms the look of Minecraft Bedrock with high-resolution textures, custom models, and beautiful environmental effects.\n\nThe pack includes:\n- 64x64 resolution textures\n- Custom mob models\n- Enhanced water and lava effects\n- Beautiful sky textures with realistic clouds\n- Custom UI elements\n\nYou can download this texture pack from the Texture Packs section of the app. Special thanks to the creator for sharing this amazing work with our community!",
-      "imageUrl": "https://raw.githubusercontent.com/JesmerAFK/mc-share/main/images/2cc5ade2-28d3-42a3-9f97-e8b8399da113.jpg",
-      "authorName": "Admin",
-      "datePosted": 1752825000000,
-      "likes": 24,
-      "dislikes": 2
     }
   ],
   "lastUpdated": 1752853058719
