@@ -1,0 +1,42 @@
+[
+  {
+    "id": "server-essential-menu",
+    "title": "Server Essential Menu",
+    "author": "JMAFK",
+    "type": "Addon",
+    "thumbnail": "https://media.forgecdn.net/avatars/placeholder.png", 
+    "description": "The ultimate menu system for Bedrock servers. Includes warps, TPA, and admin tools.",
+    "long_description": "# Server Essential Menu\n\nThis addon provides a comprehensive GUI menu for your server or realm.\n\n## Features\n- **Teleport System:** Warp to hubs and custom locations.\n- **TPA:** Request to teleport to other players.\n- **Admin Tools:** Ban, kick, and manage the server easily.\n\n## Installation\n1. Download the pack.\n2. Import into Minecraft.\n3. Apply to your world.",
+    "download_url": "https://www.curseforge.com/minecraft-bedrock/addons/server-essential-menu"
+  },
+  {
+    "id": "casino-jmafkbedrock",
+    "title": "Casino System [JMAFK]",
+    "author": "JMAFK",
+    "type": "Script",
+    "thumbnail": "https://media.forgecdn.net/avatars/placeholder.png",
+    "description": "A fully functional economy and gambling script. Add slots and blackjack to your world.",
+    "long_description": "# Casino JMAFK\n\nBring the excitement of a casino to your Bedrock world using the Script API.\n\n## Games Included\n- **Slot Machines:** Spin to win currency.\n- **Blackjack:** Play against the dealer.\n\n**Requires:** Beta APIs enabled.",
+    "download_url": "https://www.curseforge.com/minecraft-bedrock/scripts/casino-jmafkbedrock"
+  },
+  {
+    "id": "advance-land-claim",
+    "title": "Advance Land Claim",
+    "author": "JMAFK",
+    "type": "Addon",
+    "thumbnail": "https://media.forgecdn.net/avatars/placeholder.png",
+    "description": "Protect your builds! Advanced plot protection and land claiming for multiplayer.",
+    "long_description": "# Advance Land Claim\n\nStop griefers instantly.\n\n## How to use\n1. Get the claiming tool.\n2. Select corner A and corner B.\n3. Type `/claim` to protect your area.\n\nIncludes permission sharing with friends!",
+    "download_url": "https://www.curseforge.com/minecraft-bedrock/addons/advance-land-claim-plot-protection"
+  },
+  {
+    "id": "proximity-chat",
+    "title": "Below Name & Proximity Chat",
+    "author": "JMAFK",
+    "type": "Script",
+    "thumbnail": "https://media.forgecdn.net/avatars/placeholder.png",
+    "description": "Immersive chat features. See messages below player names and chat based on distance.",
+    "long_description": "# Proximity Chat Script\n\nEnhance roleplay with this script.\n\n## Features\n- **Below Name:** Chat messages appear instantly under the player's nametag.\n- **Proximity:** Only players within X blocks can see your chat.\n- **Config:** customizable radius.",
+    "download_url": "https://www.curseforge.com/minecraft-bedrock/scripts/below-name-chat-proximity-chat-jmafk"
+  }
+]
